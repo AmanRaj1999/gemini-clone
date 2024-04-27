@@ -200,6 +200,10 @@ animation: loader 4s infinite linear;
     .search-box div{
         gap: 5px;
     }
+
+    .search-box input::placeholder{
+        font-size: small;
+    }
 }
 
 
